@@ -14,6 +14,7 @@
   - 🌐 **HTML, CSS**  
   - 📋 **SQL**  
   - 🕹️ **Pawno**  
+  - ⚜ **JavaScript**  
 
 ---
 
