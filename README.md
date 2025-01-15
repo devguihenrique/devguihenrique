@@ -1,16 +1,29 @@
-## Hi there 👋
+# Guilherme Henrique 👨‍💻
 
-<!--
-**devguihenrique/devguihenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim
+- 🎓 **Desenvolvedor Back-End** | Estudante de **Engenharia de Software**
+- 🛠️ Focado em **Análise e Desenvolvimento de Sistemas**
+- 🎵 Apaixonado por música - **Fã de Lana Del Rey** e **Camila Cabello**  
+- 🎮 **Gamer:** Fã nº1 de **God of War (2018 - Ragnarok)** e da saga **Resident Evil**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills
+- **Linguagens & Frameworks:**  
+  - 🖥️ **Laravel**  
+  - 🌐 **HTML, CSS**  
+  - 📋 **SQL**  
+  - 🕹️ **Pawno**  
+
+---
+
+### 🎯 Objetivos
+- Aprofundar meus conhecimentos em **desenvolvimento back-end**.  
+- Contribuir para projetos de código aberto e compartilhar soluções com a comunidade.  
+- Criar sistemas eficientes e funcionais que impactem positivamente as pessoas.
+
+---
+
+### 📫 Entre em contato
+- **Email:** developer@guilhermehenrique.com.br    
+- **GitHub:** Você já está aqui! Explore meus projetos. 😉  
