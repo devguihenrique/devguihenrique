@@ -1,57 +1,26 @@
-# Guilherme Henrique: O Desenvolvedor Espartano 🛡️⚔️
+# Guilherme Henrique
 
-*"No campo de batalha do código, a vitória é conquistada com estratégia, força e sabedoria."*
----
+### Desenvolvedor Back-End
 
-## 🧔‍♂️ Sobre Mim
+## Sobre mim
+Sou um desenvolvedor back-end apaixonado por tecnologia e soluções eficientes. Tenho experiência com Laravel, HTML, CSS e PAWN, trabalhando em projetos que variam de servidores de jogos a sistemas educacionais.
 
-Eu sou **Guilherme Henrique**, um guerreiro espartano no mundo da programação. Assim como Kratos, enfrento desafios com determinação e resiliência. Minha jornada é marcada por batalhas épicas contra bugs, algoritmos complexos e sistemas caóticos.  
+## 🛠️ Skills
+- **Linguagens e Frameworks:** Laravel, PAWN, HTML, CSS
+- **Banco de Dados:** MySQL (Mediano)
 
-- 🏛️ **Origem**: Desenvolvedor Back-End  
-- ⚔️ **Armas Principais**: PHP, Pawn, Javascript & HTML/CSS  
-- 🛡️ **Escudo**: Boas práticas de código e testes automatizados  
-- 🔥 **Poderes**: Resolução de problemas, aprendizado contínuo e trabalho em equipe  
+## 💼 Experiência Profissional
+- **Nacional Player SA:MP** - Desenvolvimento e manutenção de sistemas em PAWN e Laravel.
+- **PlayVicio Games** - CIO e Desenvolvedor, responsável pela arquitetura e desenvolvimento de sistemas.
+- **SEDUC-AM** - Desenvolvedor Júnior, atuando na criação e manutenção de sistemas internos.
 
----
+## 🌎 De onde sou
+📍 Amazonas, Brasil
 
-## 🏆 Habilidades
+## 📫 Contato
+- Email: guilherme@guilhermedev.com
+- LinkedIn: [linkedin.com/in/guilhermehenrique](https://www.linkedin.com/in/guilhermehenrique)
+- GitHub: [github.com/devguihenrique](https://github.com/devguihenrique)
 
-| Habilidade          | Nível       | Descrição                                                                 |
-|----------------------|-------------|---------------------------------------------------------------------------|
-| **Espada do Frontend** | ⭐⭐⭐     | Domínio de HTML, CSS, JavaScript e frameworks como Laravel         |
-| **Machado do Backend** | ⭐⭐⭐⭐      | Experiência com Node.js, Express, Django e bancos de dados SQL/NoSQL     |
-| **Fúria Espartana**   | ⭐⭐⭐⭐⭐     | Capacidade de resolver problemas complexos sob pressão                    |
+🚀 Sempre buscando novos desafios e aprendizado!
 
----
-
-## 🛠️ Empresas e Funções
-
-### 1. **PlayVicio Games**
-   - **Cargo**: Diretor de Tecnologia da Informação - (Executivo) 
-   - **CNPJ**: 49.205.835/0001-77  
-
-### 2. **Secretaria de Estado de Educação e Desporto**
-   - **Cargo**: Tecnico de Apoio ao Usúario de Informatica  
-   - **Local**: Departamento de Gestão de Tecnologia da Informação  
----
-
-## 📜 Jornada
-
-- **Início**: Comecei minha jornada como um simples guerreiro, aprendendo HTML e CSS.  
-- **Ascensão**: Dominei Pawn e SQL-Pawn , tornando-me um soldado mais versátil.  
-- **Desafios**: Enfrentei monstros (bugs) e labirintos (algoritmos complexos) para me tornar um desenvolvedor experiente.  
-- **Objetivo**: Continuar evoluindo e contribuir para a comunidade de desenvolvimento.  
-
----
-
-## 🎮 Contato
-
-- **Email**: dev@arizonagroup.com.br
-- **LinkedIn**: [Guilherme Henrique](https://www.linkedin.com/in/guilhermehenrique)  
----
-
-> *"A guerra nunca muda, mas nós evoluímos. Que seus códigos sejam leves e suas batalhas, vitoriosas."*  
-> – Guilherme Henrique, o Desenvolvedor Espartano  
-
-![Kratos Coding](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3A4c2hvNWZpOWpzNXJqdmZqbDZmM2s0ZDlvNDFmMWMzaXd6bjU4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5AQKEZLrP1W8S2WBTA/giphy.gif)  
-*"No fim, o que importa não é o quanto você codifica, mas o impacto que seu código tem no mundo."*
