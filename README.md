@@ -19,7 +19,7 @@ Sou um desenvolvedor back-end apaixonado por tecnologia e soluções eficientes.
 
 ## 📫 Contato
 - Email: guilherme@guilhermedev.com
-- LinkedIn: [linkedin.com/in/guilhermehenrique](https://www.linkedin.com/in/guilhermehenrique)
+- LinkedIn: [[linkedin.com/in/guilhermehenriquee](https://www.linkedin.com/in/guilhermehenriquee/)
 - GitHub: [github.com/devguihenrique](https://github.com/devguihenrique)
 
 🚀 Sempre buscando novos desafios e aprendizado!
